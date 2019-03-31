@@ -1,4 +1,11 @@
 # Compiled class file
+
+# para el ide (intelij)
+*.iml
+*.iws
+*.ipr
+.idea/
+
 *.class
 
 # Log file
